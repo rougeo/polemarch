@@ -19,3 +19,5 @@ ansible>=2.1, <=2.5.4
 paramiko<=2.4.0
 pywinrm[kerberos]==0.3.0
 github3.py==1.0.0a4
+
+sphinx>=3.0.4 # not directly required, pinned by Snyk to avoid a vulnerability
