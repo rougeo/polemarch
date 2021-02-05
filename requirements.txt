@@ -2,7 +2,7 @@
 vstutils[rpc,ldap,doc,coreapi,prod]==1.1.7
 pyyaml
 docutils==0.14
-markdown2==2.3.5
+markdown2==2.4.0
 
 # API
 jsonfield==2.0.2
